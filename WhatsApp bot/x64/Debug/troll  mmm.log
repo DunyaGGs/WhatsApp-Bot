@@ -1,0 +1,3 @@
+﻿  troll  mmm.cpp
+C:\Users\Dunya\Desktop\C++ algorithms\troll  mmm\troll  mmm.cpp(25,19): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  troll  mmm.vcxproj -> C:\Users\Dunya\Desktop\C++ algorithms\troll  mmm\x64\Debug\troll  mmm.exe
